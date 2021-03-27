@@ -11,7 +11,7 @@ Red Wine: https://www.openml.org/d/40691
 
 ### Prerequisites
 
-In order to run the core the following libraries are needed:
+In order to run the code the following libraries are needed:
 ```
 library(tidyverse) 
 library(tidyr)
