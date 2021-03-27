@@ -5,8 +5,9 @@ Project carried out on April 2020 for "Programming for Big Data" (Higher Diploma
 ## Getting Started
 
 First of all,the data sources can be downloaded from:
-White Wine: https://www.openml.org/d/40498
-Red Wine: https://www.openml.org/d/40691
+
+* White Wine: https://www.openml.org/d/40498
+* Red Wine: https://www.openml.org/d/40691
 
 
 ### Prerequisites
